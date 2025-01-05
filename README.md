@@ -14,9 +14,9 @@ The pipeline includes data preprocessing, exploratory data analysis (EDA), featu
 ├── environment.yml              # Python dependencies for conda
 ├── README.md                    # Documentation
 └── datasets/
-    ├── train.csv                # Training dataset
-    ├── test.csv                 # Testing dataset
-    └── metadata.txt             # Metadata file with column definitions
+    ├── census_income_learn.csv                # Training dataset
+    ├── census_income_test.csv                 # Testing dataset
+    └── census_income_metadata.txt             # Metadata file with column definitions
 ```
 
 <b>Dependencies</b>
