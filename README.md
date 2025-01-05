@@ -7,7 +7,7 @@ The pipeline includes data preprocessing, exploratory data analysis (EDA), featu
 ```
 ├── data_loader.py               # Handles data loading from raw files
 ├── data_cleaner.py              # Performs data cleaning and preprocessing
-├── eda.py                       # Generates exploratory data analysis reports
+├── eda.py                       # Generates exploratory data analysis
 ├── feature_engineer.py          # Applies feature engineering techniques
 ├── model_trainer.py             # Trains ML models with hyperparameter tuning
 ├── requirements.txt             # Python dependencies for pip
