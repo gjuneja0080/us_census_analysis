@@ -3,7 +3,7 @@
 This project implements a machine learning pipeline for a binary classification problem that predicts whethe people earn more than or less than $50,000 using US Census Data. 
 The pipeline includes data preprocessing, exploratory data analysis (EDA), feature engineering and training multiple models with hyperparameter tuning and performance evaluation. 
 
-
+<b> Project Structure </b>
 ```
 ├── data_loader.py               # Handles data loading from raw files
 ├── data_cleaner.py              # Performs data cleaning and preprocessing
