@@ -20,6 +20,7 @@ The pipeline includes data preprocessing, exploratory data analysis (EDA), featu
 ```
 
 <b>Dependencies</b>
+
 For Pip Installations:
 ```
 pip install -r requirements.txt
